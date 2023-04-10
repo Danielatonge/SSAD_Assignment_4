@@ -1,5 +1,3 @@
-package Assignment4.Task2.Exercise2;
-
 public class Rectangle {
     private double length;
     private double width;

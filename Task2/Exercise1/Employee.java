@@ -1,4 +1,3 @@
-package Assignment4.Task2.Exercise1;
 
 public class Employee {
     private String name;

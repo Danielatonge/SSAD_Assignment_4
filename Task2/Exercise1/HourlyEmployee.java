@@ -1,5 +1,3 @@
-package Assignment4.Task2.Exercise1;
-
 public class HourlyEmployee extends Employee {
     private double hoursWorked;
 
